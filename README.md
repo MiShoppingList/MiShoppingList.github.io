@@ -14,7 +14,7 @@
 #### Developer Info
 This iOS App is created by **Giordano Menegazzi**, an individual **iOS Developer** from the Netherlands. 
 
--[LinkedIn](https://www.linkedin.com/in/giordano-menegazzi-35108012a/)
+- [LinkedIn](https://www.linkedin.com/in/giordano-menegazzi-35108012a/)
 
 
 #### App Background
