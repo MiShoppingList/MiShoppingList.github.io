@@ -13,7 +13,7 @@ Eventually i'm so happy with the result i believe other people could use this ap
 
 In the near future i'm planning on integrating an option for premium accounts as well, so you can decide to buy premium and stop seeing advertisements. Next to that i'm also planning on integrating cloudKit support as well, so you can share it with friends and family as well.
 
-If you got other suggestions for new features or found any bugs in the app please don't hesitate to contact me at mishoppinglist@outlook.com
+If you got other suggestions for new features or found any bugs in the app please don't hesitate to contact me at <mishoppinglist@outlook.com>.
 
 I hope you enjoy the App!
 
