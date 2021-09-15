@@ -5,9 +5,7 @@
 
 
 ### This is the official Mi Shopping List support website.
-
 You can read the privacy policy here: [Privacy Policy](https://mishoppinglist.github.io/Privacy-Policy/).
-
 And contact me here as wel, at <mishoppinglist@outlook.com>.
 
 
