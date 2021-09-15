@@ -1,7 +1,7 @@
 # Mi Shopping List
 
 
-![](icon-256.png)
+![App Icon](icon-256.png)
 
 
 ### This is the official Mi Shopping List support website.
@@ -37,6 +37,6 @@ If you got other suggestions for new features or found any bugs in the app pleas
 
 ## I hope you enjoy the App!
 
-Greetings, 
+Greetings,
 **Giordano Menegazzi**
 
