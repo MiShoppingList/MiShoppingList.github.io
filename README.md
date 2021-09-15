@@ -1,8 +1,6 @@
 # Mi Shopping List
 
 
-
-
 This is the official Mi Shopping List support website.
 
 You can read the privacy policy here: [Privacy Policy](https://mishoppinglist.github.io/Privacy-Policy/) And contact me here as wel at <mishoppinglist@outlook.com>.
@@ -15,6 +13,10 @@ In the near future i'm planning on integrating an option for premium accounts as
 
 If you got other suggestions for new features or found any bugs in the app please don't hesitate to contact me at <mishoppinglist@outlook.com>.
 
-I hope you enjoy the App!
 
-Greetings, Giordano Menegazzi
+
+## I hope you enjoy the App!
+
+Greetings, 
+
+Giordano Menegazzi
