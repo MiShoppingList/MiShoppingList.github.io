@@ -2,7 +2,7 @@
 ###### iOS App
 
 
-</kbd>![](App Icon.png){:height="200px" width="200px"}</kbd>
+</kbd>![](App Icon.png)</kbd>{:height="200px" width="200px"}
 
 
 ### This is the official Mi Shopping List support website.
