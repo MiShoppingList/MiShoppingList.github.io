@@ -1,8 +1,13 @@
 # Mi Shopping List
 
+
+![alt text](https://github.com/[MiShoppingList]/[MiShoppingList.github.io]/blob/[main]/icon-1024.png?raw=true)
+
+
 ### This is the official Mi Shopping List support website.
 
 You can read the privacy policy here: [Privacy Policy](https://mishoppinglist.github.io/Privacy-Policy/).
+
 And contact me here as wel, at <mishoppinglist@outlook.com>.
 
 
@@ -30,5 +35,6 @@ If you got other suggestions for new features or found any bugs in the app pleas
 ## I hope you enjoy the App!
 
 Greetings, 
+
 **Giordano Menegazzi**
 
