@@ -1,7 +1,7 @@
 # Mi Shopping List
 
 
-[Mi Shopping List](icon-1024.png)
+![Mi Shopping List](icon-1024.png)
 
 
 ### This is the official Mi Shopping List support website.
