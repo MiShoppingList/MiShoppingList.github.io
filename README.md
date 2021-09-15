@@ -1,12 +1,12 @@
 # Mi Shopping List
 
 
-![App Icon](icon-256.png)
+![App Icon](/MiShoppingList.github.io/icon-256.png)
 
 
 ### This is the official Mi Shopping List support website.
-You can read the privacy policy here: [Privacy Policy](https://mishoppinglist.github.io/Privacy-Policy/).
-Contact me here as wel, at <mishoppinglist@outlook.com>.
+- You can read the privacy policy here: [Privacy Policy](https://mishoppinglist.github.io/Privacy-Policy/).
+- Contact me here as wel, at <mishoppinglist@outlook.com>.
 
 
 
