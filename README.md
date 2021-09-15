@@ -1,7 +1,8 @@
 # Mi Shopping List
+###### iOS App
 
 
-![App Icon](/MiShoppingList.github.io/Icon-256.png)
+![App Icon](Icon-256.png)
 
 
 ### This is the official Mi Shopping List support website.
