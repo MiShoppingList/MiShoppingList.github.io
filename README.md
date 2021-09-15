@@ -2,7 +2,7 @@
 ###### iOS App
 
 
-![App Icon](Icon-256.png)
+![](App Icon.png)
 
 
 ### This is the official Mi Shopping List support website.
