@@ -35,8 +35,12 @@ If you got other suggestions for new features or found any bugs in the app pleas
 
 
 
+
 ## I hope you enjoy the App!
 
+
+
 Greetings,
+
 **Giordano Menegazzi**
 
