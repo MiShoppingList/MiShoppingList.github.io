@@ -2,6 +2,7 @@
 
 
 ![alt text](https://github.com/[MiShoppingList]/[MiShoppingList.github.io]/blob/[main]/icon-1024.png?raw=true)
+![Mi Shopping List](icon-1024.png)
 
 
 ### This is the official Mi Shopping List support website.
