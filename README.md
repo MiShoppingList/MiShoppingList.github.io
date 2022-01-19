@@ -1,6 +1,6 @@
 # Mi Shopping List
 
-![](App Icon Border.png){:height="200px" width="200px"}
+![](App-Icon-Border.png){:height="200px" width="200px"}
 ###### iOS App
 
 
