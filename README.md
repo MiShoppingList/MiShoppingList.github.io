@@ -1,6 +1,6 @@
 # Mi Shopping List
 
-![](App-Icon-Border.png){:height="200px" width="200px"}
+<img src="App-Icon-Border.png" alt="App Icon" width="200" height="200">
 ###### iOS App
 
 
