@@ -1,7 +1,6 @@
 # Mi Shopping List
 
 <img src="App-Icon-Border.png" alt="App Icon" width="200" height="200">
-#### iOS App
 
 
 ### This is the official Mi Shopping List support website.
